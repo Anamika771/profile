@@ -78,7 +78,7 @@ body{
     
     position: absolute;
     left: 265px;
-    top: 25px;
+    top: 29px;
     animation: opacitychange 3s   1 reverse ;
     
     
@@ -160,4 +160,5 @@ body{
     margin-left: 0px;
     margin-right: 0.5px;
 }
+
   
